@@ -4,6 +4,10 @@
 
 ## 文档导航
 
+### [AAD最佳实践](aad/index.md)
+
+AAD 相关 Terraform 最佳实践。
+
 ### [Anti-DDoS最佳实践](anti-ddos/index.md)
 
 Anti-DDoS（Anti-Distributed Denial of Service）是华为云提供的分布式拒绝服务攻击防护服务，能够有效防护针对公网IP的DDoS攻击，保障业务的稳定运行。

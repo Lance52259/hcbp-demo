@@ -4,6 +4,10 @@ Welcome to the Huawei Cloud Best Practices Documentation Center. This documentat
 
 ## Documentation Navigation
 
+### [AAD Best Practices](aad/index.md)
+
+AAD Terraform best practices.
+
 ### [Anti-DDoS Best Practices](anti-ddos/index.md)
 
 Anti-DDoS (Anti-Distributed Denial of Service) is a distributed denial-of-service attack protection service provided by Huawei Cloud, which can effectively protect public IPs from DDoS attacks and ensure stable business operations.
