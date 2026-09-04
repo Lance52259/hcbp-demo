@@ -4,6 +4,10 @@
 
 ## 文档导航
 
+### [DDoS高防（AAD）最佳实践](aad/index.md)
+
+DDoS高防（Advanced Anti-DDoS，AAD）是华为云提供的专业DDoS防护服务，旨在保护互联网服务器和应用免受分布式拒绝服务（DDoS）攻击及其他恶意流量的影响。AAD提供全面的防护能力，包括DDoS流量清洗、CC（Challenge Collapsar）攻击防护和智能流量分析，确保在线服务的可用性和稳定性。
+
 ### [Anti-DDoS最佳实践](anti-ddos/index.md)
 
 Anti-DDoS（Anti-Distributed Denial of Service）是华为云提供的分布式拒绝服务攻击防护服务，能够有效防护针对公网IP的DDoS攻击，保障业务的稳定运行。
@@ -75,6 +79,10 @@ API网关（API Gateway）是为企业和开发者提供的高性能、高可用
 ### [配置审计（Config）最佳实践](config/index.md)
 
 配置审计（Config）是华为云提供的一站式合规管理服务，帮助用户持续监控和评估云资源的配置合规性。Config服务提供预置的合规规则包和自定义规则，支持多种合规框架和标准，帮助企业建立完善的合规管理体系。
+
+### [云性能测试服务（CPTS）最佳实践](cpts/index.md)
+
+云性能测试服务（Cloud Performance Test Service，CPTS）是华为云提供的性能测试服务，帮助用户模拟真实业务场景，对云上应用进行压力测试，以评估系统的性能、稳定性和扩展能力。CPTS支持多种协议和场景，能够生成高并发压力，并提供实时监控和报告，帮助用户发现性能瓶颈，优化系统架构。
 
 ### [云搜索服务（CSS）最佳实践](css/index.md)
 

@@ -4,6 +4,10 @@ Welcome to the Huawei Cloud Best Practices Documentation Center. This documentat
 
 ## Documentation Navigation
 
+### [Advanced Anti-DDoS (AAD) Best Practices](aad/index.md)
+
+Advanced Anti-DDoS (AAD) is a professional DDoS protection service provided by Huawei Cloud, designed to protect internet servers and applications from distributed denial-of-service (DDoS) attacks and other malicious traffic. AAD provides comprehensive protection capabilities, including DDoS traffic scrubbing, CC (Challenge Collapsar) attack protection, and intelligent traffic analysis, ensuring the availability and stability of online services.
+
 ### [Anti-DDoS Best Practices](anti-ddos/index.md)
 
 Anti-DDoS (Anti-Distributed Denial of Service) is a distributed denial-of-service attack protection service provided by Huawei Cloud, which can effectively protect public IPs from DDoS attacks and ensure stable business operations.
@@ -75,6 +79,10 @@ Cloud Operations Center (COC) is a one-stop operation and maintenance management
 ### [Config Best Practices](config/index.md)
 
 Config, named as Resource Management Service (RMS) before, it is a one-stop compliance management service provided by Huawei Cloud, helping users continuously monitor and evaluate the configuration compliance of cloud resources. Config service provides pre-configured compliance rule packages and custom rules, supporting multiple compliance frameworks and standards, helping enterprises establish comprehensive compliance management systems.
+
+### [Cloud Performance Test Service (CPTS) Best Practices](cpts/index.md)
+
+Cloud Performance Test Service (CPTS) is a performance testing service provided by Huawei Cloud, which helps users simulate real business scenarios and perform stress tests on cloud applications to evaluate system performance, stability, and scalability. CPTS supports multiple protocols and scenarios, can generate high concurrency pressure, and provides real-time monitoring and reports to help users identify performance bottlenecks and optimize system architecture.
 
 ### [Cloud Search Service (CSS) Best Practices](css/index.md)
 
